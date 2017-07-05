@@ -1,0 +1,340 @@
+\!/=
+
+### General -> Editors -> Text Editors
+## Appearance color options
+# Line number foreground
+/instance/org.eclipse.ui.editors/lineNumberColor=129,150,154
+
+# Current line highlighting
+/instance/org.eclipse.ui.editors/currentLineColor=47,57,60
+
+# Print margin
+/instance/org.eclipse.ui.editors/printMarginColor=129,150,154
+
+# Find scope
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.FindScope=224,226,228
+
+# Selection foreground color
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionForeground=224,226,228
+
+# Selection background color
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionBackground=0,120,215
+
+# Background color
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background.SystemDefault=false
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=41,49,52
+
+# Foreground color
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground.SystemDefault=false
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground=224,226,228
+
+# Hyperlink
+/instance/org.eclipse.ui.editors/hyperlinkColor.SystemDefault=true
+
+####################################################################################################
+
+### General -> Editors -> Text Editors -> Annotations (TODO)
+## Annotation types
+# Bookmarks
+
+####################################################################################################
+
+### Java -> Editor
+# Bracket highlighting
+/instance/org.eclipse.jdt.ui/matchingBrackets=true
+/instance/org.eclipse.jdt.ui/enclosingBrackets=true
+/instance/org.eclipse.jdt.ui/highlightBracketAtCaretLocation=true
+
+## Appearance color options
+# Matching brackets highlighting
+/instance/org.eclipse.jdt.ui/matchingBracketsColor=255,0,0
+
+# Source hover background
+/instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor.SystemDefault=false
+/instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor=255,255,255
+
+####################################################################################################
+
+### Java -> Editor -> Syntax Coloring
+## Element: Java
+# Abstract classes
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.italic=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.underline=false
+
+# Abstract method invocations
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.italic=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.underline=false
+
+# Annotation element references
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotationElementReference.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotationElementReference.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotationElementReference.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotationElementReference.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotationElementReference.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotationElementReference.underline=false
+
+# Annotations
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.color=160,130,189
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.underline=false
+
+# Auto(un)boxed expressions
+/instance/org.eclipse.jdt.ui/semanticHighlighting.autoboxing.enabled=false
+
+# Brackets
+/instance/org.eclipse.jdt.ui/java_bracket=232,226,183
+/instance/org.eclipse.jdt.ui/java_bracket_bold=false
+/instance/org.eclipse.jdt.ui/java_bracket_italic=false
+/instance/org.eclipse.jdt.ui/java_bracket_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_bracket_underline=false
+
+# Classes
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.underline=false
+
+# Deprecated members
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.color=0,120,215
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.strikethrough=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.underline=false
+
+# Enums
+/instance/org.eclipse.jdt.ui/semanticHighlighting.enum.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.enum.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.enum.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.enum.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.enum.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.enum.underline=false
+
+# Fields
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.underline=false
+
+# Inherited fields
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedField.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedField.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedField.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedField.italic=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedField.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedField.underline=false
+
+# Inherited method invocations
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.underline=false
+
+# Interfaces
+/instance/org.eclipse.jdt.ui/semanticHighlighting.interface.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.interface.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.interface.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.interface.italic=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.interface.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.interface.underline=false
+
+# Keyword 'return'
+/instance/org.eclipse.jdt.ui/java_keyword_return=147,199,99
+/instance/org.eclipse.jdt.ui/java_keyword_return_bold=true
+/instance/org.eclipse.jdt.ui/java_keyword_return_italic=false
+/instance/org.eclipse.jdt.ui/java_keyword_return_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_keyword_return_underline=false
+
+# Keyword excluding 'return'
+/instance/org.eclipse.jdt.ui/java_keyword=147,199,99
+/instance/org.eclipse.jdt.ui/java_keyword_bold=true
+/instance/org.eclipse.jdt.ui/java_keyword_italic=false
+/instance/org.eclipse.jdt.ui/java_keyword_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_keyword_underline=false
+
+# Local variable declarations
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.bold=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.underline=false
+
+# Local variables
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.underline=false
+
+# Method declarations
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.color=232,226,183
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.bold=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.underline=false
+
+# Methods
+/instance/org.eclipse.jdt.ui/semanticHighlighting.method.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.method.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.method.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.method.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.method.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.method.underline=false
+
+# Numbers
+/instance/org.eclipse.jdt.ui/semanticHighlighting.number.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.number.color=255,205,34
+/instance/org.eclipse.jdt.ui/semanticHighlighting.number.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.number.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.number.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.number.underline=false
+
+# Operators
+/instance/org.eclipse.jdt.ui/java_operator=232,226,183
+/instance/org.eclipse.jdt.ui/java_operator_bold=false
+/instance/org.eclipse.jdt.ui/java_operator_italic=false
+/instance/org.eclipse.jdt.ui/java_operator_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_operator_underline=false
+
+# Others
+/instance/org.eclipse.jdt.ui/java_default=224,226,228
+/instance/org.eclipse.jdt.ui/java_default_bold=false
+/instance/org.eclipse.jdt.ui/java_default_italic=false
+/instance/org.eclipse.jdt.ui/java_default_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_default_underline=false
+
+# Parameter variables
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.underline=false
+
+# Static fields
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.bold=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.underline=false
+
+# Static final fields
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.bold=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.italic=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.underline=false
+
+# Static method invocations
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.bold=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.underline=false
+
+# Strings
+/instance/org.eclipse.jdt.ui/java_string=236,118,0
+/instance/org.eclipse.jdt.ui/java_string_bold=false
+/instance/org.eclipse.jdt.ui/java_string_italic=false
+/instance/org.eclipse.jdt.ui/java_string_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_string_underline=false
+
+# Type arguments
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.bold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.underline=false
+
+# Type variables
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.bold=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.italic=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.strikethrough=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.underline=false
+
+####################################################################################################
+
+### Java -> Editor -> Syntax Coloring
+## Element: Javadoc
+# HTML markup
+/instance/org.eclipse.jdt.ui/java_doc_tag=224,226,228
+/instance/org.eclipse.jdt.ui/java_doc_tag_bold=false
+/instance/org.eclipse.jdt.ui/java_doc_tag_italic=false
+/instance/org.eclipse.jdt.ui/java_doc_tag_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_doc_tag_underline=false
+
+# Links
+/instance/org.eclipse.jdt.ui/java_doc_link=103,140,177
+/instance/org.eclipse.jdt.ui/java_doc_link_bold=false
+/instance/org.eclipse.jdt.ui/java_doc_link_italic=false
+/instance/org.eclipse.jdt.ui/java_doc_link_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_doc_link_underline=false
+
+# Others
+/instance/org.eclipse.jdt.ui/java_doc_default=125,140,147
+/instance/org.eclipse.jdt.ui/java_doc_default_bold=false
+/instance/org.eclipse.jdt.ui/java_doc_default_italic=false
+/instance/org.eclipse.jdt.ui/java_doc_default_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_doc_default_underline=false
+
+# Tags
+/instance/org.eclipse.jdt.ui/java_doc_keyword=160,130,189
+/instance/org.eclipse.jdt.ui/java_doc_keyword_bold=true
+/instance/org.eclipse.jdt.ui/java_doc_keyword_italic=false
+/instance/org.eclipse.jdt.ui/java_doc_keyword_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_doc_keyword_underline=false
+
+####################################################################################################
+
+### Java -> Editor -> Syntax Coloring
+## Element: Comments
+# Multi-line comment
+/instance/org.eclipse.jdt.ui/java_multi_line_comment=125,140,147
+/instance/org.eclipse.jdt.ui/java_multi_line_comment_bold=false
+/instance/org.eclipse.jdt.ui/java_multi_line_comment_italic=false
+/instance/org.eclipse.jdt.ui/java_multi_line_comment_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_multi_line_comment_underline=false
+
+# Single-line comment
+/instance/org.eclipse.jdt.ui/java_single_line_comment=125,140,147
+/instance/org.eclipse.jdt.ui/java_single_line_comment_bold=false
+/instance/org.eclipse.jdt.ui/java_single_line_comment_italic=false
+/instance/org.eclipse.jdt.ui/java_single_line_comment_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_single_line_comment_underline=false
+
+# Task Tags
+/instance/org.eclipse.jdt.ui/java_comment_task_tag=255,139,255
+/instance/org.eclipse.jdt.ui/java_comment_task_tag_bold=true
+/instance/org.eclipse.jdt.ui/java_comment_task_tag_italic=false
+/instance/org.eclipse.jdt.ui/java_comment_task_tag_strikethrough=false
+/instance/org.eclipse.jdt.ui/java_comment_task_tag_underline=false
+
+file_export_version=3.0
