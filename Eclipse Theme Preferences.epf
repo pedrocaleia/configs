@@ -1,5 +1,70 @@
 \!/=
 
+####################################################################################################
+#
+# (1) General
+#   (2) Appearance
+#     (3) Colors and Fonts
+#   (2) Editors
+#     (3) Text Editors
+#       (4) Annotations (TODO)
+#       (4) ...
+#     (3) ...
+#   (2) ...
+#
+# (1) Java (TODO)
+#   (2) Appearance (TODO)
+#     (3) Members Sort Order (TODO)
+#     (3) Type Filters (TODO)
+#   (2) Build Path (TODO)
+#     (3) Classpath Variables (TODO)
+#     (3) User Libraries (TODO)
+#   (2) Code Coverage (TODO)
+#   (2) Code Style
+#     (3) Clean Up (TODO)
+#     (3) Code Templates (TODO)
+#     (3) Formatter (TODO)
+#     (3) Organize Imports (TODO)
+#   (2) Compiler (TODO)
+#     (3) Building (TODO)
+#     (3) Errors/Warnings (TODO)
+#     (3) Javadoc (TODO)
+#     (3) Task Tags (TODO)
+#   (2) Debug (TODO)
+#     (3) Detail Formatters (TODO)
+#     (3) Heap Walking (TODO)
+#     (3) Logical Structures (TODO)
+#     (3) Primitive Display Options (TODO)
+#     (3) Step Filtering (TODO)
+#   (2) Editor (TODO)
+#     (3) Content Assist (TODO)
+#       (4) Advanced (TODO)
+#       (4) Favorites (TODO)
+#     (3) Folding (TODO)
+#     (3) Hovers (TODO)
+#     (3) Mark Occurrences (TODO)
+#     (3) Save Actions (TODO)
+#     (3) Syntax Coloring
+#     (3) Templates (TODO)
+#     (3) Typing (TODO)
+#   (2) Installed JREs (TODO)
+#     (3) Execution Environments (TODO)
+#   (2) JUnit
+#   (2) Properties Files Editor
+#
+####################################################################################################
+
+### General -> Appearance -> Colors and Fonts
+## Java
+# Java Editor Text Font (overrides default: Text Font)
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Consolas|14.142858|0|WINDOWS|1|-33|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Consolas|14.142858|0|WINDOWS|1|-33|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+
+# Javadoc display font (overrides default: Dialog Font)
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.javadocfont=1|Segoe UI|12.0|0|WINDOWS|1|-28|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;
+
+####################################################################################################
+
 ### General -> Editors -> Text Editors
 ## Appearance color options
 # Line number foreground
@@ -41,19 +106,115 @@
 
 ####################################################################################################
 
-### Java -> Editor
+### Java (TODO)
+
+####################################################################################################
+
+### Java -> Appearance (TODO)
+### Java -> Appearance -> Members Sort Order (TODO)
+### Java -> Appearance -> Type Filters (TODO)
+
+####################################################################################################
+
+### Java -> Build Path (TODO)
+### Java -> Build Path -> Classpath Variables (TODO)
+### Java -> Build Path -> User Libraries (TODO)
+
+####################################################################################################
+
+### Java -> Code Coverage (TODO)
+
+####################################################################################################
+
+### Java -> Code Style
+## Conventions for variable names:
+# Fields
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldSuffixes=
+
+# Static Fields
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldSuffixes=
+
+# Static Final Fields
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldSuffixes=
+
+# Parameters
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentSuffixes=
+
+# Local Variables
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localSuffixes=
+
+# Qualify all generated field accesses with 'this.'
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.keywordthis=true
+
+# Use 'is' prefix for getters that return boolean
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.gettersetter.use.is=true
+
+# Add '@Override' annotation for new overriding methods
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.overrideannotation=true
+
+# Exception variable name in catch blocks:
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.exception.name=e
+
+####################################################################################################
+
+### Java -> Code Style -> Clean Up (TODO)
+### Java -> Code Style -> Code Templates (TODO)
+### Java -> Code Style -> Formatter (TODO)
+### Java -> Code Style -> Organize Imports (TODO)
+
+####################################################################################################
+
+### Java -> Compiler (TODO)
+### Java -> Compiler -> Building (TODO)
+### Java -> Compiler -> Errors/Warnings (TODO)
+### Java -> Compiler -> Javadoc (TODO)
+### Java -> Compiler -> Task Tags (TODO)
+
+####################################################################################################
+
+### Java -> Debug (TODO)
+### Java -> Debug -> Detail Formatters (TODO)
+### Java -> Debug -> Heap Walking (TODO)
+### Java -> Debug -> Logical Structures (TODO)
+### Java -> Debug -> Primitive Display Options (TODO)
+### Java -> Debug -> Step Filtering (TODO)
+
+####################################################################################################
+
+### Java -> Editor (TODO)
 # Bracket highlighting
 /instance/org.eclipse.jdt.ui/matchingBrackets=true
-/instance/org.eclipse.jdt.ui/enclosingBrackets=true
-/instance/org.eclipse.jdt.ui/highlightBracketAtCaretLocation=true
 
 ## Appearance color options
 # Matching brackets highlighting
 /instance/org.eclipse.jdt.ui/matchingBracketsColor=255,0,0
 
+# Parameter hints background (TODO)
+
+# Parameter hints foreground (TODO)
+
+# Completion overwrite background (TODO)
+
+# Completion overwrite foreground (TODO)
+
 # Source hover background
 /instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor.SystemDefault=false
 /instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor=255,255,255
+
+####################################################################################################
+
+### Java -> Editor -> Content Assist (TODO)
+### Java -> Editor -> Content Assist -> Advanced (TODO)
+### Java -> Editor -> Content Assist -> Favorites (TODO)
+### Java -> Editor -> Folding (TODO)
+### Java -> Editor -> Hovers (TODO)
+### Java -> Editor -> Mark Occurrences (TODO)
+### Java -> Editor -> Save Actions (TODO)
 
 ####################################################################################################
 
@@ -280,9 +441,6 @@
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.strikethrough=false
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.underline=false
 
-####################################################################################################
-
-### Java -> Editor -> Syntax Coloring
 ## Element: Javadoc
 # HTML markup
 /instance/org.eclipse.jdt.ui/java_doc_tag=224,226,228
@@ -312,9 +470,6 @@
 /instance/org.eclipse.jdt.ui/java_doc_keyword_strikethrough=false
 /instance/org.eclipse.jdt.ui/java_doc_keyword_underline=false
 
-####################################################################################################
-
-### Java -> Editor -> Syntax Coloring
 ## Element: Comments
 # Multi-line comment
 /instance/org.eclipse.jdt.ui/java_multi_line_comment=125,140,147
@@ -336,5 +491,20 @@
 /instance/org.eclipse.jdt.ui/java_comment_task_tag_italic=false
 /instance/org.eclipse.jdt.ui/java_comment_task_tag_strikethrough=false
 /instance/org.eclipse.jdt.ui/java_comment_task_tag_underline=false
+
+####################################################################################################
+
+### Java -> Editor -> Templates (TODO)
+### Java -> Editor -> Typing (TODO)
+
+####################################################################################################
+
+### Java -> Installed JREs (TODO)
+### Java -> Installed JREs -> Execution Environments (TODO)
+
+####################################################################################################
+
+### Java -> JUnit (TODO)
+### Java -> Properties Files Editor (TODO)
 
 file_export_version=3.0
