@@ -1,0 +1,49 @@
+(1) General : Theme
+  (2) Appearance : Theme
+    (3) Colors and Fonts : Theme
+  (2) Editors : Theme
+    (3) Text Editors : Theme
+      (4) Annotations (TODO) : Theme
+      (4) ...
+    (3) ...
+  (2) ...
+
+(1) Java (TODO) : Theme, Other
+  (2) Appearance (TODO) : Theme
+    (3) Members Sort Order (TODO) : Theme
+    (3) Type Filters (TODO) : Theme
+  (2) Build Path (TODO) : Theme
+    (3) Classpath Variables (TODO) : Theme
+    (3) User Libraries (TODO) : Theme
+  (2) Code Coverage (TODO) : Theme
+  (2) Code Style : Other
+    (3) Clean Up (TODO) : Other
+    (3) Code Templates (TODO) : Other
+    (3) Formatter (TODO) : Other
+    (3) Organize Imports (TODO) : Other
+  (2) Compiler (TODO) : Theme
+    (3) Building (TODO) : Theme
+    (3) Errors/Warnings (TODO) : Theme
+    (3) Javadoc (TODO) : Theme
+    (3) Task Tags (TODO) : Theme
+  (2) Debug (TODO) : Theme
+    (3) Detail Formatters (TODO) : Theme
+    (3) Heap Walking (TODO) : Theme
+    (3) Logical Structures (TODO) : Theme
+    (3) Primitive Display Options (TODO) : Theme
+    (3) Step Filtering (TODO) : Theme
+  (2) Editor (TODO) : Theme
+    (3) Content Assist (TODO) : Theme
+      (4) Advanced (TODO) : Theme
+      (4) Favorites (TODO) : Theme
+    (3) Folding (TODO) : Theme
+    (3) Hovers (TODO) : Theme
+    (3) Mark Occurrences (TODO) : Theme
+    (3) Save Actions (TODO) : Theme
+    (3) Syntax Coloring : Theme
+    (3) Templates (TODO) : Theme
+    (3) Typing (TODO) : Theme
+  (2) Installed JREs (TODO) : Theme
+    (3) Execution Environments (TODO) : Theme
+  (2) JUnit (TODO) : Theme
+  (2) Properties Files Editor (TODO) : Theme

@@ -20,11 +20,6 @@
 #     (3) Classpath Variables (TODO)
 #     (3) User Libraries (TODO)
 #   (2) Code Coverage (TODO)
-#   (2) Code Style
-#     (3) Clean Up (TODO)
-#     (3) Code Templates (TODO)
-#     (3) Formatter (TODO)
-#     (3) Organize Imports (TODO)
 #   (2) Compiler (TODO)
 #     (3) Building (TODO)
 #     (3) Errors/Warnings (TODO)
@@ -126,49 +121,6 @@
 
 ####################################################################################################
 
-### Java -> Code Style
-## Conventions for variable names:
-# Fields
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldPrefixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldSuffixes=
-
-# Static Fields
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldPrefixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldSuffixes=
-
-# Static Final Fields
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldPrefixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldSuffixes=
-
-# Parameters
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentSuffixes=
-
-# Local Variables
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localPrefixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localSuffixes=
-
-# Qualify all generated field accesses with 'this.'
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.keywordthis=true
-
-# Use 'is' prefix for getters that return boolean
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.gettersetter.use.is=true
-
-# Add '@Override' annotation for new overriding methods
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.overrideannotation=true
-
-# Exception variable name in catch blocks:
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.exception.name=e
-
-####################################################################################################
-
-### Java -> Code Style -> Clean Up (TODO)
-### Java -> Code Style -> Code Templates (TODO)
-### Java -> Code Style -> Formatter (TODO)
-### Java -> Code Style -> Organize Imports (TODO)
-
-####################################################################################################
-
 ### Java -> Compiler (TODO)
 ### Java -> Compiler -> Building (TODO)
 ### Java -> Compiler -> Errors/Warnings (TODO)
@@ -195,12 +147,16 @@
 /instance/org.eclipse.jdt.ui/matchingBracketsColor=255,0,0
 
 # Parameter hints background (TODO)
+/instance/org.eclipse.jdt.ui/content_assist_parameters_background=128,255,128
 
 # Parameter hints foreground (TODO)
+/instance/org.eclipse.jdt.ui/content_assist_parameters_foreground=128,255,0
 
 # Completion overwrite background (TODO)
+/instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=0,128,255
 
 # Completion overwrite foreground (TODO)
+/instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=0,128,192
 
 # Source hover background
 /instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor.SystemDefault=false

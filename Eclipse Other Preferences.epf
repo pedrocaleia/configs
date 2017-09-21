@@ -1,0 +1,59 @@
+\!/=
+
+####################################################################################################
+#
+# (1) Java (TODO)
+#   (2) Code Style
+#     (3) Clean Up (TODO)
+#     (3) Code Templates (TODO)
+#     (3) Formatter (TODO)
+#     (3) Organize Imports (TODO)
+#
+####################################################################################################
+
+### Java (TODO)
+
+####################################################################################################
+
+### Java -> Code Style
+## Conventions for variable names:
+# Fields
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldSuffixes=
+
+# Static Fields
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldSuffixes=
+
+# Static Final Fields
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldSuffixes=
+
+# Parameters
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentSuffixes=
+
+# Local Variables
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localSuffixes=
+
+# Qualify all generated field accesses with 'this.'
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.keywordthis=true
+
+# Use 'is' prefix for getters that return boolean
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.gettersetter.use.is=true
+
+# Add '@Override' annotation for new overriding methods
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.overrideannotation=true
+
+# Exception variable name in catch blocks:
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.exception.name=e
+
+####################################################################################################
+
+### Java -> Code Style -> Clean Up (TODO)
+### Java -> Code Style -> Code Templates (TODO)
+### Java -> Code Style -> Formatter (TODO)
+### Java -> Code Style -> Organize Imports (TODO)
+
+file_export_version=3.0
