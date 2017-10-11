@@ -1,52 +1,9 @@
 \!/=
 
-####################################################################################################
-#
-# (1) General
-#   (2) Appearance
-#     (3) Colors and Fonts
-#   (2) Editors
-#     (3) Text Editors
-#       (4) Annotations (TODO)
-#       (4) ...
-#     (3) ...
-#   (2) ...
-#
-# (1) Java (TODO)
-#   (2) Appearance (TODO)
-#     (3) Members Sort Order (TODO)
-#     (3) Type Filters (TODO)
-#   (2) Build Path (TODO)
-#     (3) Classpath Variables (TODO)
-#     (3) User Libraries (TODO)
-#   (2) Code Coverage (TODO)
-#   (2) Compiler (TODO)
-#     (3) Building (TODO)
-#     (3) Errors/Warnings (TODO)
-#     (3) Javadoc (TODO)
-#     (3) Task Tags (TODO)
-#   (2) Debug (TODO)
-#     (3) Detail Formatters (TODO)
-#     (3) Heap Walking (TODO)
-#     (3) Logical Structures (TODO)
-#     (3) Primitive Display Options (TODO)
-#     (3) Step Filtering (TODO)
-#   (2) Editor (TODO)
-#     (3) Content Assist (TODO)
-#       (4) Advanced (TODO)
-#       (4) Favorites (TODO)
-#     (3) Folding (TODO)
-#     (3) Hovers (TODO)
-#     (3) Mark Occurrences (TODO)
-#     (3) Save Actions (TODO)
-#     (3) Syntax Coloring
-#     (3) Templates (TODO)
-#     (3) Typing (TODO)
-#   (2) Installed JREs (TODO)
-#     (3) Execution Environments (TODO)
-#   (2) JUnit
-#   (2) Properties Files Editor
-#
+### General -> Appearance
+# Theme
+/instance/org.eclipse.e4.ui.css.swt.theme/themeid=org.eclipse.e4.ui.css.theme.e4_classic
+
 ####################################################################################################
 
 ### General -> Appearance -> Colors and Fonts
@@ -141,6 +98,8 @@
 ### Java -> Editor (TODO)
 # Bracket highlighting
 /instance/org.eclipse.jdt.ui/matchingBrackets=true
+/instance/org.eclipse.jdt.ui/enclosingBrackets=true
+/instance/org.eclipse.jdt.ui/highlightBracketAtCaretLocation=true
 
 ## Appearance color options
 # Matching brackets highlighting

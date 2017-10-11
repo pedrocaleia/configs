@@ -1,17 +1,11 @@
 \!/=
 
-####################################################################################################
-#
-# (1) Java (TODO)
-#   (2) Code Style
-#     (3) Clean Up (TODO)
-#     (3) Code Templates (TODO)
-#     (3) Formatter (TODO)
-#     (3) Organize Imports (TODO)
-#
-####################################################################################################
+### General -> Editors -> Text Editors
+# Show print margin
+/instance/org.eclipse.ui.editors/printMargin=true
 
-### Java (TODO)
+# Print margin column
+/instance/org.eclipse.ui.editors/printMarginColumn=160
 
 ####################################################################################################
 
