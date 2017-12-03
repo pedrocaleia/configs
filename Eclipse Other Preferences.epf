@@ -50,4 +50,12 @@
 ### Java -> Code Style -> Formatter (TODO)
 ### Java -> Code Style -> Organize Imports (TODO)
 
+####################################################################################################
+
+### Java -> Editor (TODO)
+# Bracket highlighting
+/instance/org.eclipse.jdt.ui/matchingBrackets=true
+/instance/org.eclipse.jdt.ui/enclosingBrackets=true
+/instance/org.eclipse.jdt.ui/highlightBracketAtCaretLocation=true
+
 file_export_version=3.0

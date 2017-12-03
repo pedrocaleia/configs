@@ -1,11 +1,5 @@
 \!/=
 
-### General -> Appearance
-# Theme
-/instance/org.eclipse.e4.ui.css.swt.theme/themeid=org.eclipse.e4.ui.css.theme.e4_classic
-
-####################################################################################################
-
 ### General -> Appearance -> Colors and Fonts
 ## Java
 # Java Editor Text Font (overrides default: Text Font)
@@ -96,11 +90,6 @@
 ####################################################################################################
 
 ### Java -> Editor (TODO)
-# Bracket highlighting
-/instance/org.eclipse.jdt.ui/matchingBrackets=true
-/instance/org.eclipse.jdt.ui/enclosingBrackets=true
-/instance/org.eclipse.jdt.ui/highlightBracketAtCaretLocation=true
-
 ## Appearance color options
 # Matching brackets highlighting
 /instance/org.eclipse.jdt.ui/matchingBracketsColor=255,0,0
