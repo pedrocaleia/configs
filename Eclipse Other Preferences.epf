@@ -9,6 +9,55 @@
 
 ####################################################################################################
 
+### General -> Workspace
+# Build automatically
+/instance/org.eclipse.core.resources/description.autobuilding=true
+
+# Refresh using native hooks or polling
+/instance/org.eclipse.core.resources/refresh.enabled=true
+
+# Refresh on access
+/instance/org.eclipse.core.resources/refresh.lightweight.enabled=true
+
+# Save automatically before build
+/instance/org.eclipse.ui.ide/SAVE_ALL_BEFORE_BUILD=false
+
+# Always close unrelated projects without prompt
+/instance/org.eclipse.ui.ide/CLOSE_UNRELATED_PROJECTS=false
+
+# Workspace save interval (in minutes)
+/instance/org.eclipse.core.resources/description.snapshotinterval=300000
+
+## Window title
+	# Show workspace name
+	/instance/org.eclipse.ui.ide/SHOW_LOCATION_NAME=true
+
+	# Workspace name
+	# Doesn't make sense to define the workspace name in a preferences file
+
+	# Show perspective name
+	/instance/org.eclipse.ui.ide/SHOW_PERSPECTIVE_IN_TITLE=false
+
+	# Show full workspace path
+	/instance/org.eclipse.ui.ide/SHOW_LOCATION=true
+
+	# Show product name
+	/instance/org.eclipse.ui.ide/SHOW_PRODUCT_IN_TITLE=true
+	
+# Open referenced projects when a project is opened
+/instance/org.eclipse.ui.ide/OPEN_REQUIRED_PROJECTS=prompt
+
+# Command for launching system explorer
+/instance/org.eclipse.ui.ide/SYSTEM_EXPLORER=explorer /E,/select\=${selected_resource_loc}
+
+# Text file encoding
+/instance/org.eclipse.core.resources/encoding=UTF-8
+
+# New text file line delimiter
+/instance/org.eclipse.core.runtime/line.separator=\n
+
+####################################################################################################
+
 ### Java -> Code Style
 ## Conventions for variable names:
 # Fields
