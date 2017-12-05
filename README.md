@@ -4,8 +4,9 @@ This repository contains configuration files (for now, only for eclipse).
 
 ## Eclipse preferences structure
 
-*   [General](#general)
-*   [Java](#java)
+* [General](#general)
+* [Java](#java)
+* [XML](#xml)
 
 <h3 id="general">General</h3>
 
@@ -479,5 +480,126 @@ This repository contains configuration files (for now, only for eclipse).
   </tr>
 </table>
 
+<h3 id="xml">XML</h3>
 
+<table>
+  <tr>
+    <th>Menu Entry</th>
+    <th>In File?</th>
+    <th>Date</th>
+    <th>File</th>
+  </tr>
+  
+  <tr>
+    <td>1. XML</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>2. DTD Files</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>3. Editor</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>3. Syntax Coloring</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>3. Templates</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>2. XML Catalog</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>2. XML Files</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>3. Editor</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>4. Content Assist</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>4. Syntax Coloring</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>4. Templates</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>4. Typing</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>3. Validation</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>2. XML Schema Files</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>3. Editor</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>3. Validation</td>
+    <td align="center">&#10060</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
