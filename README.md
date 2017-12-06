@@ -2,267 +2,51 @@
 
 This repository contains configuration files (for now, only for eclipse).
 
-## Eclipse preferences structure
+## Eclipse preferences entries
 
 * [General](#general)
 * [Java](#java)
 * [XML](#xml)
 
-<h3 id="general">General</h3>
+### General
 
-<table>
-  <tr>
-    <th>Menu Entry</th>
-    <th>In File?</th>
-    <th>Date</th>
-    <th>File</th>
-  </tr>
-  
-  <tr>
-    <td>1. General</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Appearance</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Colors and Fonts</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Label Decorations</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Compare/Patch</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Content Types</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Editors</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Autosave</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. File Associations</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Structured Text Editors</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Task Tags</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Text Editors (TODO childs)</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Error Reporting</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Globalization</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Keys</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Network Connections</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Cache</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. SSH2</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Notifications</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Perspectives</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Project Natures</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Search</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Security</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Secure Storage</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Startup and Shutdown</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Workspaces</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. UI Responsiveness Monitoring</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. User Storage Service</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Linked Accounts</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Services (legacy)</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Web Browser</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Workspace</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Build Order</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Linked Resources</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Local History</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+   Menu Entry                                   |   In File?         |   File
+------------------------------------------------|:------------------:|----------
+General                                         | :x:                |
+&emsp;             Appearance                   | :x:                |
+&emsp;&emsp;       Colors and Fonts             | :x:                |
+&emsp;&emsp;       Label Decorations            | :x:                |
+&emsp;             Compare/Patch                | :x:                |
+&emsp;             Content Types                | :x:                |
+&emsp;             Editors                      | :x:                |
+&emsp;&emsp;       Autosave                     | :x:                |
+&emsp;&emsp;       File Associations            | :x:                |
+&emsp;&emsp;       Structured Text Editors      | :x:                |
+&emsp;&emsp;&emsp; Task Tags                    | :x:                |
+&emsp;&emsp;       Text Editors (TODO childs)   | :x:                |
+&emsp;             Error Reporting              | :x:                |
+&emsp;             Globalization                | :x:                |
+&emsp;             Keys                         | :x:                |
+&emsp;             Network Connections          | :x:                |
+&emsp;&emsp;       Cache                        | :x:                |
+&emsp;&emsp;       SSH2                         | :x:                |
+&emsp;             Notifications                | :x:                |
+&emsp;             Perspectives                 | :x:                |
+&emsp;             Project Natures              | :x:                |
+&emsp;             Search                       | :x:                |
+&emsp;             Security                     | :x:                |
+&emsp;&emsp;       Secure Storage               | :x:                |
+&emsp;             Startup and Shutdown         | :x:                |
+&emsp;&emsp;       Workspaces                   | :x:                |
+&emsp;             UI Responsiveness Monitoring | :x:                |
+&emsp;             User Storage Service         | :x:                |
+&emsp;&emsp;       Linked Accounts              | :x:                |
+&emsp;&emsp;       Services (legacy)            | :x:                |
+&emsp;             Web Browser                  | :x:                |
+&emsp;             Workspace                    | :x:                |
+&emsp;&emsp;       Build Order                  | :x:                |
+&emsp;&emsp;       Linked Resources             | :x:                |
+&emsp;&emsp;       Local History                | :x:                |
 
 * * *
 
