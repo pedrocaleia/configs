@@ -12,7 +12,7 @@ This repository contains configuration files (for now, only for eclipse).
 
    Menu Entry                                   |   In File?         |   File
 ------------------------------------------------|:------------------:|----------
-General                                         | :x:                |
+   General                                      | :x:                |
 &emsp;             Appearance                   | :x:                |
 &emsp;&emsp;       Colors and Fonts             | :x:                |
 &emsp;&emsp;       Label Decorations            | :x:                |
@@ -50,219 +50,41 @@ General                                         | :x:                |
 
 * * *
 
-<h3 id="java">Java</h3>
+### Java
 
-<table>
-  <tr>
-    <th>Menu Entry</th>
-    <th>In File?</th>
-    <th>Date</th>
-    <th>File</th>
-  </tr>
-  
-  <tr>
-    <td>1. Java</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Appearance</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Members Sort Order</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Type Filters</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Build Path</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Classpath Variables</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. User Libraries</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Code Coverage</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Code Style</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Clean Up</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Code Templates</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Formatter</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Organize Imports</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Compiler</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Building</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Errors/Warnings</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Javadoc</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Task Tags</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Debug</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Detail Formatters</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Heap Walking</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Logical Structures</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Primitive Display Options</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Step Filtering</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Editor (TODO childs)</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Installed JREs</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Execution Environments</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. JUnit</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Properties Files Editor</td>
-    <td align="center">&#10060</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+   Menu Entry                          |   In File?         |   File
+---------------------------------------|:------------------:|----------
+   Java                                | :x:                |
+&emsp;       Appearance                | :x:                |
+&emsp;&emsp; Members Sort Order        | :x:                |
+&emsp;&emsp; Type Filters              | :x:                |
+&emsp;       Build Path                | :x:                |
+&emsp;&emsp; Classpath Variables       | :x:                |
+&emsp;&emsp; User Libraries            | :x:                |
+&emsp;       Code Coverage             | :x:                |
+&emsp;       Code Style                | :x:                |
+&emsp;&emsp; Clean Up                  | :x:                |
+&emsp;&emsp; Code Templates            | :x:                |
+&emsp;&emsp; Formatter                 | :x:                |
+&emsp;&emsp; Organize Imports          | :x:                |
+&emsp;       Compiler                  | :x:                |
+&emsp;&emsp; Building                  | :x:                |
+&emsp;&emsp; Errors/Warnings           | :x:                |
+&emsp;&emsp; Javadoc                   | :x:                |
+&emsp;&emsp; Task Tags                 | :x:                |
+&emsp;       Debug                     | :x:                |
+&emsp;&emsp; Detail Formatters         | :x:                |
+&emsp;&emsp; Heap Walking              | :x:                |
+&emsp;&emsp; Logical Structures        | :x:                |
+&emsp;&emsp; Primitive Display Options | :x:                |
+&emsp;&emsp; Step Filtering            | :x:                |
+&emsp;       Editor (TODO childs)      | :x:                |
+&emsp;       Installed JREs            | :x:                |
+&emsp;&emsp; Execution Environments    | :x:                |
+&emsp;       JUnit                     | :x:                |
+&emsp;       Properties Files Editor   | :x:                |
+
+* * *
 
 <h3 id="xml">XML</h3>
 
