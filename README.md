@@ -2,6 +2,12 @@
 
 This repository contains configuration files (for now, only for eclipse).
 
+## Symbols
+* :x: - No preferences have been added to any configuration file;
+* :heavy_check_mark: - All the preferences are in configuration files;
+* :red_circle: - Some of the preferences have been added to configuration files and some / all of the rest still need attention;
+* :large_blue_circle: - Only some of the preferences have been added to configuration files and all of the rest need no attention.
+
 ## Eclipse preferences entries
 
 * [General](#general)
@@ -10,11 +16,11 @@ This repository contains configuration files (for now, only for eclipse).
 
 ### General
 
-   Menu Entry                                   |   In File?         |   File
+   Menu Entry                                   |   Status           |   File
 ------------------------------------------------|:------------------:|----------
    General                                      | :x:                |
 &emsp;             Appearance                   | :x:                |
-&emsp;&emsp;       Colors and Fonts             | :x:                |
+&emsp;&emsp;       Colors and Fonts             | :large_blue_circle:| Theme
 &emsp;&emsp;       Label Decorations            | :x:                |
 &emsp;             Compare/Patch                | :x:                |
 &emsp;             Content Types                | :x:                |
@@ -23,7 +29,7 @@ This repository contains configuration files (for now, only for eclipse).
 &emsp;&emsp;       File Associations            | :x:                |
 &emsp;&emsp;       Structured Text Editors      | :x:                |
 &emsp;&emsp;&emsp; Task Tags                    | :x:                |
-&emsp;&emsp;       Text Editors (TODO childs)   | :x:                |
+&emsp;&emsp;       Text Editors (TODO childs)   | :heavy_check_mark: | Other, Theme
 &emsp;             Error Reporting              | :x:                |
 &emsp;             Globalization                | :x:                |
 &emsp;             Keys                         | :x:                |
@@ -52,7 +58,7 @@ This repository contains configuration files (for now, only for eclipse).
 
 ### Java
 
-   Menu Entry                          |   In File?         |   File
+   Menu Entry                          |   Status           |   File
 ---------------------------------------|:------------------:|----------
    Java                                | :x:                |
 &emsp;       Appearance                | :x:                |
@@ -88,7 +94,7 @@ This repository contains configuration files (for now, only for eclipse).
 
 ### XML
 
-   Menu Entry                       |   In File?         |   File
+   Menu Entry                       |   Status           |   File
 ------------------------------------|:------------------:|----------
    XML                              | :x:                |
 &emsp;             DTD Files        | :x:                |
