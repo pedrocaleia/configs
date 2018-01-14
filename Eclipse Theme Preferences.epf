@@ -48,7 +48,54 @@
 
 ### General -> Editors -> Text Editors -> Annotations (TODO)
 ## Annotation types
-# Bookmarks
+# Bookmarks (TODO)
+
+# Breakpoints (TODO)
+
+# Debug Call Stack (TODO)
+
+# Debug Current Instruction Pointer (TODO)
+
+# Errors (TODO)
+
+# Filtered Search Results (TODO)
+
+# Full Coverage (TODO)
+
+# Infos (TODO)
+
+# Matching Tags (TODO)
+
+# No Coverage (TODO)
+
+# Occurrences
+/instance/org.eclipse.ui.editors/occurrenceIndicationInVerticalRuler=false
+/instance/org.eclipse.ui.editors/occurrenceIndicationInOverviewRuler=true
+/instance/org.eclipse.ui.editors/occurrenceHighlighting=true
+/instance/org.eclipse.ui.editors/occurrenceIndication=false
+/instance/org.eclipse.ui.editors/occurrenceTextStyle=
+/instance/org.eclipse.ui.editors/occurrenceIndicationColor=82,82,82
+/instance/org.eclipse.ui.editors/isOccurrenceGoToNextNavigationTarget=true
+
+# Override Indicators (TODO)
+
+# Partial Coverage (TODO)
+
+# Search Results (TODO)
+
+# Spelling Errors (TODO)
+
+# Tasks (TODO)
+
+# Warnings (TODO)
+
+# Write Occurrences
+/instance/org.eclipse.ui.editors/writeOccurrenceIndicationInVerticalRuler=false
+/instance/org.eclipse.ui.editors/writeOccurrenceIndicationInOverviewRuler=true
+/instance/org.eclipse.ui.editors/writeOccurrenceHighlighting=true
+/instance/org.eclipse.ui.editors/writeOccurrenceIndication=false
+/instance/org.eclipse.ui.editors/writeOccurrenceTextStyle=
+/instance/org.eclipse.ui.editors/writeOccurrenceIndicationColor=82,82,41
 
 ####################################################################################################
 

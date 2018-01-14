@@ -31,7 +31,7 @@ This repository contains configuration files (for now, only for eclipse).
 &emsp;&emsp;&emsp;       Task Tags               | :x:                |
 &emsp;&emsp;             Text Editors            | :heavy_check_mark: | Other, Theme
 &emsp;&emsp;&emsp;       Accessibility           | :x:                |
-&emsp;&emsp;&emsp;       Annotations             | :x:                |
+&emsp;&emsp;&emsp;       Annotations             | :large_blue_circle:| Theme
 &emsp;&emsp;&emsp;       Hyperlinking            | :x:                |
 &emsp;&emsp;&emsp;       Linked Mode             | :x:                |
 &emsp;&emsp;&emsp;       Quick Diff              | :x:                |
