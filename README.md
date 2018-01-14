@@ -20,7 +20,7 @@ This repository contains configuration files (for now, only for eclipse).
 ------------------------------------------------|:------------------:|----------
    General                                      | :x:                |
 &emsp;             Appearance                   | :x:                |
-&emsp;&emsp;       Colors and Fonts             | :x:                |
+&emsp;&emsp;       Colors and Fonts             | :large_blue_circle:| Theme
 &emsp;&emsp;       Label Decorations            | :x:                |
 &emsp;             Compare/Patch                | :x:                |
 &emsp;             Content Types                | :x:                |
@@ -29,7 +29,7 @@ This repository contains configuration files (for now, only for eclipse).
 &emsp;&emsp;       File Associations            | :x:                |
 &emsp;&emsp;       Structured Text Editors      | :x:                |
 &emsp;&emsp;&emsp; Task Tags                    | :x:                |
-&emsp;&emsp;       Text Editors (TODO childs)   | :x:                |
+&emsp;&emsp;       Text Editors (TODO childs)   | :heavy_check_mark: | Other, Theme
 &emsp;             Error Reporting              | :x:                |
 &emsp;             Globalization                | :x:                |
 &emsp;             Keys                         | :x:                |
