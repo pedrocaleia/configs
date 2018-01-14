@@ -102,23 +102,23 @@
 ### Java -> Editor (TODO)
 ## Appearance color options
 # Matching brackets highlighting
-/instance/org.eclipse.jdt.ui/matchingBracketsColor=255,0,0
+/instance/org.eclipse.jdt.ui/matchingBracketsColor=192,192,192
 
-# Parameter hints background (TODO)
-/instance/org.eclipse.jdt.ui/content_assist_parameters_background=128,255,128
+# Parameter hints background
+/instance/org.eclipse.jdt.ui/content_assist_parameters_background=255,255,255
 
-# Parameter hints foreground (TODO)
-/instance/org.eclipse.jdt.ui/content_assist_parameters_foreground=128,255,0
+# Parameter hints foreground
+/instance/org.eclipse.jdt.ui/content_assist_parameters_foreground=0,0,0
 
 # Completion overwrite background (TODO)
-/instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=0,128,255
+/instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=255,0,128
 
 # Completion overwrite foreground (TODO)
-/instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=0,128,192
+/instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=255,0,128
 
 # Source hover background
 /instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor.SystemDefault=false
-/instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor=255,255,255
+/instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor=41,49,52
 
 ####################################################################################################
 

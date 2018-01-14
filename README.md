@@ -93,7 +93,7 @@ This repository contains configuration files (for now, only for eclipse).
 &emsp;&emsp;       Logical Structures        | :x:                |
 &emsp;&emsp;       Primitive Display Options | :x:                |
 &emsp;&emsp;       Step Filtering            | :x:                |
-&emsp;             Editor                    | :x:                |
+&emsp;             Editor                    | :large_blue_circle:| Other, Theme
 &emsp;&emsp;       Content Assist            | :x:                |
 &emsp;&emsp;&emsp; Advanced                  | :x:                |
 &emsp;&emsp;&emsp; Favorites                 | :x:                |
