@@ -3,11 +3,11 @@
 ### General -> Appearance -> Colors and Fonts
 ## Java
 # Java Editor Text Font (overrides default: Text Font)
-/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Consolas|14.142858|0|WINDOWS|1|-33|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
-/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Consolas|14.142858|0|WINDOWS|1|-33|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Consolas|12.0|0|WINDOWS|1|-28|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Consolas|12.0|0|WINDOWS|1|-28|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
 
 # Javadoc display font (overrides default: Dialog Font)
-/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.javadocfont=1|Segoe UI|12.0|0|WINDOWS|1|-28|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.javadocfont=1|Segoe UI|11.142858|0|WINDOWS|1|-26|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;
 
 ####################################################################################################
 
