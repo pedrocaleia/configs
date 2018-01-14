@@ -104,12 +104,10 @@ This repository contains configuration files (for now, only for eclipse).
 &emsp;&emsp;       Syntax Coloring           | :x:                |
 &emsp;&emsp;       Templates                 | :x:                |
 &emsp;&emsp;       Typing                    | :x:                |
-
-
-&emsp;       Installed JREs            | :x:                |
-&emsp;&emsp; Execution Environments    | :x:                |
-&emsp;       JUnit                     | :x:                |
-&emsp;       Properties Files Editor   | :x:                |
+&emsp;             Installed JREs            | :x:                |
+&emsp;&emsp;       Execution Environments    | :x:                |
+&emsp;             JUnit                     | :x:                |
+&emsp;             Properties Files Editor   | :x:                |
 
 * * *
 
