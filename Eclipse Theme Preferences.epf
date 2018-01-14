@@ -99,43 +99,6 @@
 
 ####################################################################################################
 
-### Java (TODO)
-
-####################################################################################################
-
-### Java -> Appearance (TODO)
-### Java -> Appearance -> Members Sort Order (TODO)
-### Java -> Appearance -> Type Filters (TODO)
-
-####################################################################################################
-
-### Java -> Build Path (TODO)
-### Java -> Build Path -> Classpath Variables (TODO)
-### Java -> Build Path -> User Libraries (TODO)
-
-####################################################################################################
-
-### Java -> Code Coverage (TODO)
-
-####################################################################################################
-
-### Java -> Compiler (TODO)
-### Java -> Compiler -> Building (TODO)
-### Java -> Compiler -> Errors/Warnings (TODO)
-### Java -> Compiler -> Javadoc (TODO)
-### Java -> Compiler -> Task Tags (TODO)
-
-####################################################################################################
-
-### Java -> Debug (TODO)
-### Java -> Debug -> Detail Formatters (TODO)
-### Java -> Debug -> Heap Walking (TODO)
-### Java -> Debug -> Logical Structures (TODO)
-### Java -> Debug -> Primitive Display Options (TODO)
-### Java -> Debug -> Step Filtering (TODO)
-
-####################################################################################################
-
 ### Java -> Editor (TODO)
 ## Appearance color options
 # Matching brackets highlighting
@@ -156,16 +119,6 @@
 # Source hover background
 /instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor.SystemDefault=false
 /instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor=255,255,255
-
-####################################################################################################
-
-### Java -> Editor -> Content Assist (TODO)
-### Java -> Editor -> Content Assist -> Advanced (TODO)
-### Java -> Editor -> Content Assist -> Favorites (TODO)
-### Java -> Editor -> Folding (TODO)
-### Java -> Editor -> Hovers (TODO)
-### Java -> Editor -> Mark Occurrences (TODO)
-### Java -> Editor -> Save Actions (TODO)
 
 ####################################################################################################
 
@@ -442,20 +395,5 @@
 /instance/org.eclipse.jdt.ui/java_comment_task_tag_italic=false
 /instance/org.eclipse.jdt.ui/java_comment_task_tag_strikethrough=false
 /instance/org.eclipse.jdt.ui/java_comment_task_tag_underline=false
-
-####################################################################################################
-
-### Java -> Editor -> Templates (TODO)
-### Java -> Editor -> Typing (TODO)
-
-####################################################################################################
-
-### Java -> Installed JREs (TODO)
-### Java -> Installed JREs -> Execution Environments (TODO)
-
-####################################################################################################
-
-### Java -> JUnit (TODO)
-### Java -> Properties Files Editor (TODO)
 
 file_export_version=3.0
