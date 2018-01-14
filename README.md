@@ -101,7 +101,7 @@ This repository contains configuration files (for now, only for eclipse).
 &emsp;&emsp;       Hovers                    | :x:                |
 &emsp;&emsp;       Mark Occurrences          | :x:                |
 &emsp;&emsp;       Save Actions              | :x:                |
-&emsp;&emsp;       Syntax Coloring           | :x:                |
+&emsp;&emsp;       Syntax Coloring           | :heavy_check_mark: | Theme
 &emsp;&emsp;       Templates                 | :x:                |
 &emsp;&emsp;       Typing                    | :x:                |
 &emsp;             Installed JREs            | :x:                |
