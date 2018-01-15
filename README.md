@@ -29,7 +29,7 @@ This repository contains configuration files (for now, only for eclipse).
 &emsp;&emsp;             File Associations       | :x:                |
 &emsp;&emsp;             Structured Text Editors | :x:                |
 &emsp;&emsp;&emsp;       Task Tags               | :x:                |
-&emsp;&emsp;             Text Editors            | :heavy_check_mark: | Other, Theme
+&emsp;&emsp;             Text Editors            | :large_blue_circle:| Other, Theme
 &emsp;&emsp;&emsp;       Accessibility           | :x:                |
 &emsp;&emsp;&emsp;       Annotations             | :large_blue_circle:| Theme
 &emsp;&emsp;&emsp;       Hyperlinking            | :x:                |
@@ -58,7 +58,7 @@ This repository contains configuration files (for now, only for eclipse).
 &emsp;&emsp;       Linked Accounts               | :x:                |
 &emsp;&emsp;       Services (legacy)             | :x:                |
 &emsp;             Web Browser                   | :x:                |
-&emsp;             Workspace                     | :x:                |
+&emsp;             Workspace                     | :heavy_check_mark: | Other
 &emsp;&emsp;       Build Order                   | :x:                |
 &emsp;&emsp;       Linked Resources              | :x:                |
 &emsp;&emsp;       Local History                 | :x:                |
@@ -77,7 +77,7 @@ This repository contains configuration files (for now, only for eclipse).
 &emsp;&emsp;       Classpath Variables       | :x:                |
 &emsp;&emsp;       User Libraries            | :x:                |
 &emsp;             Code Coverage             | :x:                |
-&emsp;             Code Style                | :x:                |
+&emsp;             Code Style                | :heavy_check_mark: | Other
 &emsp;&emsp;       Clean Up                  | :x:                |
 &emsp;&emsp;       Code Templates            | :x:                |
 &emsp;&emsp;       Formatter                 | :x:                |

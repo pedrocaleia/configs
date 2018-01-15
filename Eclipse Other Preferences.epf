@@ -29,21 +29,21 @@
 /instance/org.eclipse.core.resources/description.snapshotinterval=300000
 
 ## Window title
-	# Show workspace name
-	/instance/org.eclipse.ui.ide/SHOW_LOCATION_NAME=true
+# Show workspace name
+/instance/org.eclipse.ui.ide/SHOW_LOCATION_NAME=true
 
-	# Workspace name
-	# Doesn't make sense to define the workspace name in a preferences file
+# Workspace name
+# Doesn't make sense to define the workspace name in a preferences file
 
-	# Show perspective name
-	/instance/org.eclipse.ui.ide/SHOW_PERSPECTIVE_IN_TITLE=false
+# Show perspective name
+/instance/org.eclipse.ui.ide/SHOW_PERSPECTIVE_IN_TITLE=false
 
-	# Show full workspace path
-	/instance/org.eclipse.ui.ide/SHOW_LOCATION=true
+# Show full workspace path
+/instance/org.eclipse.ui.ide/SHOW_LOCATION=true
 
-	# Show product name
-	/instance/org.eclipse.ui.ide/SHOW_PRODUCT_IN_TITLE=true
-	
+# Show product name
+/instance/org.eclipse.ui.ide/SHOW_PRODUCT_IN_TITLE=true
+
 # Open referenced projects when a project is opened
 /instance/org.eclipse.ui.ide/OPEN_REQUIRED_PROJECTS=prompt
 
@@ -94,7 +94,7 @@
 
 ####################################################################################################
 
-### Java -> Editor (TODO)
+### Java -> Editor
 # Bracket highlighting
 /instance/org.eclipse.jdt.ui/matchingBrackets=true
 /instance/org.eclipse.jdt.ui/enclosingBrackets=true
