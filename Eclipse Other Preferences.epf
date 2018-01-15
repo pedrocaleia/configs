@@ -94,13 +94,6 @@
 
 ####################################################################################################
 
-### Java -> Code Style -> Clean Up (TODO)
-### Java -> Code Style -> Code Templates (TODO)
-### Java -> Code Style -> Formatter (TODO)
-### Java -> Code Style -> Organize Imports (TODO)
-
-####################################################################################################
-
 ### Java -> Editor (TODO)
 # Bracket highlighting
 /instance/org.eclipse.jdt.ui/matchingBrackets=true
