@@ -10,6 +10,6 @@ This repository contains configuration files (for now, only for eclipse).
 
 ## Eclipse preferences entries
 
-* [General](#general)
-* [Java](#java)
-* [XML](#xml)
+* [General](/index_markdown_files/general.md "general.md")
+* [Java](/index_markdown_files/java.md "java.md")
+* [XML](/index_markdown_files/xml.md "xml.md")
