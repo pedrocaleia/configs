@@ -1,7 +1,3 @@
-# Configurations
-
-This repository contains configuration files (for now, only for eclipse).
-
 ## Symbols
 * :x: - No preferences have been added to any configuration file;
 * :heavy_check_mark: - All the preferences are in configuration files;
@@ -10,9 +6,9 @@ This repository contains configuration files (for now, only for eclipse).
 
 ## Eclipse preferences entries
 
-* [General](#general)
-* [Java](#java)
-* [XML](#xml)
+* [General](/index_markdown_files/general.md "General")
+* [Java](/index_markdown_files/java.md "Java")
+* [XML](/index_markdown_files/xml.md "XML")
 
 ### General
 
